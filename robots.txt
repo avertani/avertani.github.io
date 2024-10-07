@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://avertani.github.io/sitemap.html.gz
+Sitemap: https://avertani.github.io/app/sitemap.html.gz
+Sitemap: https://avertani.github.io/assets/sitemap.html.gz
+Sitemap: https://avertani.github.io/css/sitemap.html.gz
+Sitemap: https://avertani.github.io/data/sitemap.html.gz
+Sitemap: https://avertani.github.io/includes/sitemap.html.gz
+Sitemap: https://avertani.github.io/item/sitemap.html.gz
+Sitemap: https://avertani.github.io/src/sitemap.html.gz
